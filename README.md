@@ -130,16 +130,13 @@ npm run dev
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── prediction.png
-└── result.png
-```
+<img width="425" height="266" alt="Screenshot 2026-07-03 153128" src="https://github.com/user-attachments/assets/4063f803-3227-42fc-950d-e479e03e86c8" />
+<img width="424" height="266" alt="Screenshot 2026-07-03 153115" src="https://github.com/user-attachments/assets/1ede0a97-86fb-4202-9f24-16ba589d63c1" />
+<img width="417" height="272" alt="Screenshot 2026-07-03 153105" src="https://github.com/user-attachments/assets/5fd5993b-9410-45d0-8743-d34b2babbcee" />
+<img width="433" height="278" alt="Screenshot 2026-07-03 153042" src="https://github.com/user-attachments/assets/a5c93009-35c0-4583-80b1-91b6969ade07" />
+<img width="871" height="263" alt="Screenshot 2026-07-03 153211" src="https://github.com/user-attachments/assets/ec0617cd-490c-487b-a88d-1369aa8f31b1" />
+<img width="416" height="263" alt="Screenshot 2026-07-03 153200" src="https://github.com/user-attachments/assets/a6b76357-28cf-4ea3-b96a-5cd659d4c104" />
+<img width="424" height="269" alt="Screenshot 2026-07-03 153147" src="https://github.com/user-attachments/assets/88b18591-9563-4f26-976d-15e0c9992231" />
 
 ---
 
