@@ -189,9 +189,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Ricky Chette**
+**Bhusarapu Kavya Naga Lalitha**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub:(https://github.com/bhusarapukavyanagalalitha-sys)
 
 ---
 
